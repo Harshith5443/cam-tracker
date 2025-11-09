@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1760283178311,
+        "name": "a",
+        "client": "b",
+        "startDate": "2556-02-11",
+        "status": "Completed"
+    },
+    {
+        "id": 1760283291234,
+        "name": "January Campaign",
+        "client": "ABC Pvt Ltd",
+        "startDate": "2556-02-11",
+        "status": "Active"
+    },
+    {
+        "id": 1760286729699,
+        "name": "Diwali Offers 2025",
+        "client": "coco-cola",
+        "startDate": "2025-10-10",
+        "status": "Paused"
+    },
+    {
+        "id": 1760286775078,
+        "name": "Winter Sale",
+        "client": "fanta",
+        "startDate": "2025-10-23",
+        "status": "Paused"
+    },
+    {
+        "id": 1760286809380,
+        "name": "Winter Promo",
+        "client": "XYZ Enterprises",
+        "startDate": "2025-10-12",
+        "status": "Paused"
+    },
+    {
+        "id": 1760286840509,
+        "name": "New Year Blast",
+        "client": "FreshMart",
+        "startDate": "2025-12-30",
+        "status": "Active"
+    }
+]
